@@ -1,0 +1,59 @@
+html{
+    background-color: black;
+}
+
+a{
+    color: rgb(1, 221, 1);
+    text-decoration: none;
+}
+
+h1{
+    color: white;
+    display: inline-block;
+}
+
+h2{
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px;
+}
+
+#barL{
+    background-color: rgb(56, 56, 56);
+    font-size: 40px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(1, 221, 1);
+    border-right: 0px;
+    border-left: 0px;
+}
+
+a,a{
+    margin-left: 35px;
+}
+
+#Header{
+    margin-left: 100px;
+    font-size: 200%;
+}
+
+#stSnt{
+    height: 50px;
+    font-size: 35px;
+    text-align: center;
+}
+
+#spotifyLg{
+    margin:  50px 50px 0px;
+}
+
+p{
+    color: white;
+    font-size: 35px;
+    margin: 100px 0 0 0;
+}
+
+#homeH{
+    font-size: 45px;
+}

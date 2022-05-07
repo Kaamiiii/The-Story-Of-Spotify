@@ -1,0 +1,76 @@
+html{
+    background-color: black;
+}
+
+a{
+    color: rgb(1, 221, 1);
+    text-decoration: none;
+}
+
+label{
+    color: white;
+    font-size: 40px;
+}
+
+#quizz{
+    width: 700px;
+    height: 800px;
+    margin: 100px 0 0;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#barL{
+    background-color: rgb(56, 56, 56);
+    font-size: 40px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(1, 221, 1);
+    border-right: 0px;
+    border-left: 0px;
+}
+
+a,a{
+    margin-left: 35px;
+}
+
+div, div{
+    margin-bottom: 50px;
+}
+
+#submitt{
+    font-size: 250%;
+}
+
+input{
+    width: 200px;
+    height: 25px;
+    font-size: 25px;
+}
+
+#spotifyImportant{
+    height: 100px;
+    width: 500px;
+}
+
+#bs{
+    height: 0.000000001px;
+}
+
+textarea{
+    font-size: 25px;
+}
+
+h1{
+    color: white;
+    display: inline-block;
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+h2{
+    color: white;
+    display: inline-block;
+    font-size: 45px;
+}

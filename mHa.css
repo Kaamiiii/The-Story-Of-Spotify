@@ -1,0 +1,51 @@
+#barL{
+    background-color: rgb(56, 56, 56);
+    font-size: 40px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(1, 221, 1);
+    border-right: 0px;
+    border-left: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(1, 221, 1);
+}
+
+a,a{
+    margin-left: 35px;
+}
+
+html{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+ol{
+    width: 300px;
+    text-align: center;
+}
+
+#oll{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
